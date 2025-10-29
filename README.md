@@ -165,12 +165,11 @@ This repository contains the architecture and implementation of an AI-powered so
 ### Getting Started
 
 #### Prerequisites
-```bash
+
 - Node.js v18+ or Python 3.9+
 - Docker & Docker Compose
 - PostgreSQL 14+
 - Redis 6+
-```
 
 #### Installation
 ```bash
@@ -294,7 +293,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in the GitHub repository
-- Check the [Wiki](wiki) for documentation
+- Check the documentation in the repository
 - Review existing discussions in the Issues section
 
 ### Acknowledgments
